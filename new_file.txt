@@ -1,2 +1,3 @@
 i will try to do a pull request
 i'll create a pull request
+i added second feature
