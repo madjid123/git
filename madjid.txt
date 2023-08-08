@@ -1,2 +1,4 @@
 this is my file
 this was edited in remote. i added this line using branch "add_feature"
+this was edited locally i added this line using branch "add_feature"
+and also this "locally"
